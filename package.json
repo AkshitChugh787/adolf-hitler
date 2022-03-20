@@ -1,0 +1,22 @@
+{
+  "name": "adolf-hitler",
+  "version": "1.0.0",
+  "description": "generate random hitler quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkshitChugh787/adolf-hitler.git"
+  },
+  "keywords": [
+    "Hitler"
+  ],
+  "author": "Akshit Chugh",
+  "license": "(MIT OR Apache-2.0)",
+  "bugs": {
+    "url": "https://github.com/AkshitChugh787/adolf-hitler/issues"
+  },
+  "homepage": "https://github.com/AkshitChugh787/adolf-hitler#readme"
+}
